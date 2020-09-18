@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) ssr setup
+## This is a [Next.js](https://nextjs.org/) ssr setup
+
+included: styled-components, eslint, react-spinners, react-toast-notifications, next-i18next and all needed babel plugins.
 
 ## Getting Started
 
